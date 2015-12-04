@@ -34,3 +34,7 @@ $t = new Ttest();
 ```
 
 实例化成对象之后调用check方法，参数`appSecret`是学校的密钥，返回值是0的情况下说明验证通过。
+
+## Change Log
+[2015-12-4] V1.0
+[2015-12-4] V1.1 修复avatar, dept
