@@ -4,7 +4,7 @@
  * 使用方法见Ttest.php
  * @author rccoder <rccoder.net@gmail.com>
  * @date 2015-12-4
- * @version Release 1.0.0
+ * @version Release 1.1.0
  * @link http://www.rccoder.net
  */
 
